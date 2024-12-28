@@ -1,4 +1,3 @@
-# Fibonacci Series
 def fibonacci_series():
     n = int(input("Enter the number of terms: "))
     a, b = 0, 1
